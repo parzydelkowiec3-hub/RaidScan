@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: RaidScan
+## Notes: Skanuje swiatowy kanal pod katem ogloszen raidowych (WoW 1.12.1)
+## Author: Assistant
+## Version: 1.1
+## SavedVariables: RaidScanDB
+RaidScan.lua
